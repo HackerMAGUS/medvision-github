@@ -1,0 +1,10 @@
+opencv-python
+mediapipe
+numpy
+torch
+torchaudio
+sounddevice
+transformers>=4.33
+accelerate
+soundfile
+Pillow
